@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Servo Motor Tips
-Date:   2021-07-17 11:12:00-0400
+Date:   2021-07-17
 comments: true
 ---
 
