@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Self Balancing Robot
-description: Mechatronics Course Project
+description: Done by Ahmed Shaban, David Michael, Hadi Elnemr
 img: /assets/img/mctr_project/robot.png
 importance: 1
 ---
