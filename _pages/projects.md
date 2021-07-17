@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Projects done in Spring season 2021 
 nav: true
-display_categories: [work, fun]
+# display_categories: [work, fun]
 horizontal: false
 ---
 <div class="projects">
